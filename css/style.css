@@ -1,0 +1,28 @@
+body {
+    background-color:background: #F3E5D7; 
+   }
+   img {
+       object-fit: cover;
+   }
+    h1 {
+       width: 656px; height: 40px;
+    }
+    
+   p {
+      font: 100;  line-height: 24px;
+   }
+   h2 {
+       color: #854632;
+   }
+   .jigar {
+      color: #5F564D; 
+   }
+   hr {
+       color: #E3DDD7;
+   }
+   ol {
+       color: #5F564D;
+   }
+   .table {
+       border-collapse: collapse;
+   }
